@@ -1,10 +1,10 @@
 ```markdown
+
 # greenskull - метод прогнозирования
 
 Воспроизведение и улучшение метода прогнозирования миллионных вех PostCrossing. Автор метода — **Sergey Sredniy (greenskull)**. Реализация, измерения и улучшения — **kam1k88**.
 [Метод Сергея полный разбор.pdf](https://github.com/user-attachments/files/32416961/default.pdf)
 
----
 
 ## Что это за метод
 
