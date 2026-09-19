@@ -1,6 +1,6 @@
 # Метод greenskull — классическая параметрическая регрессия МНК, три локальные модели с динамическими весами. Автор метода — Sergey Sredniy (greenskull). Воспроизведение и улучшения — kam1k88.
 
-[Метод Сергея полный разбор.pdf](https://github.com/user-attachments/files/32416979/default.pdf)
+# [Метод Сергея полный разбор.pdf](https://github.com/user-attachments/files/32416979/default.pdf)
 
 
 ---
